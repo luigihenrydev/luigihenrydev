@@ -8,7 +8,7 @@
 
 👋 Olá! Me chamo **Luigi Henry** 👨‍💻
 
-🎓 Atualmente curso **Análise e Desenvolvimento de Sistemas**, com foco em me tornar um **Desenvolvedor Full Stack**.
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**, e focado em me tornar um **Desenvolvedor Full Stack**.
 
 📚 Estou sempre em busca de evolução, estudando por meio de cursos, projetos práticos e explorando novas tecnologias que reforcem minha base e ampliem minha visão no desenvolvimento de software.
 
