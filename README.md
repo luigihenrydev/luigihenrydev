@@ -46,6 +46,9 @@
 
 <br/>
 
+### ⚙️ Backend & APIs
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" /> </div> <p align="center"> 🚀 Desenvolvimento de APIs com Node.js<br/> 🔗 Integração com APIs externas<br/> 📡 Criação de Webhooks<br/> 🤖 Implementação de IA para atendimento automatizado (chatbot estilo recepcionista)<br/> 🟢 Servidores rodando com Express </p> <br/>
+
 ### ⚙️ Ferramentas e Plataformas
 
 <div align="center">
