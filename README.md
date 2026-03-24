@@ -101,7 +101,7 @@ Aplicação que simula um sistema de aplicativo de filmes e séries, utilizando 
   <a href="mailto:luigihenry2018@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FF6584&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a> 
-  <a href="https://www.linkedin.com/in/luigi-henry-c-araujo/">
+  <a href="https://www.linkedin.com/in/luigi-henry-dev/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
