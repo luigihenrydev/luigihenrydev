@@ -10,11 +10,52 @@
 
 👋 Olá! Me chamo **Luigi Henry** 👨‍💻
 
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**, e focado em me tornar um **Desenvolvedor Full Stack**.
+Sou desenvolvedor com foco em automação de processos, inteligência artificial e desenvolvimento web, criando soluções que conectam sistemas, otimizam operações e geram resultados reais.
 
-📚 Estou sempre em busca de evolução, estudando por meio de cursos, projetos práticos e explorando novas tecnologias que reforcem minha base e ampliem minha visão no desenvolvimento de software.
+Tenho experiência prática com:
 
-🚀 Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia, onde eu possa aplicar meus conhecimentos, colaborar em equipe e continuar crescendo profissionalmente.
+⚡ Desenvolvimento em JavaScript (Node.js)
+⚡ Criação de aplicações e integrações web
+⚡ Automação de fluxos com GHL (GoHighLevel)
+⚡ Agentes conversacionais com IA (WhatsApp)
+⚡ Integração de APIs e ferramentas (n8n, Webhooks, CRM)
+
+🧠 O que eu faço hoje
+
+Atuo construindo soluções que:
+
+✔ Automatizam atendimentos e processos comerciais
+✔ Qualificam e gerenciam leads automaticamente
+✔ Integram múltiplos sistemas e plataformas
+✔ Utilizam IA para personalização e tomada de decisão
+✔ Desenvolvem aplicações web e lógicas backend
+
+💡 Interesses e foco
+
+Tenho grande interesse na área de:
+
+• Desenvolvimento Web (Front-end & Back-end)
+• JavaScript e ecossistema Node.js
+• Sistemas escaláveis e integrações
+• Automação inteligente com IA
+
+📚 Evolução constante
+
+Estou sempre evoluindo através de:
+
+• Projetos práticos e sistemas reais
+• Estudo contínuo em desenvolvimento e IA
+• Construção de soluções completas (end-to-end)
+
+🎯 Objetivo
+
+Busco minha primeira oportunidade profissional na área de tecnologia, com foco em:
+
+👉 Desenvolvimento Full Stack
+👉 Automação com IA
+👉 Integração de sistemas e APIs
+
+Quero atuar em projetos onde eu possa aplicar minhas habilidades, aprender rápido e gerar impacto real.
 
 ---
 
@@ -51,6 +92,20 @@
 ### ⚙️ Backend & APIs
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" /> </div> <p align="center"> 🚀 Desenvolvimento de APIs com Node.js<br/> 🔗 Integração com APIs externas<br/> 📡 Criação de Webhooks<br/> 🤖 Implementação de IA para atendimento automatizado (chatbot estilo recepcionista)<br/> 🟢 Servidores rodando com Express </p> <br/>
 
+### 🤖 Automação & IA
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+</div>
+
+<p align="center">
+⚡ Automação de fluxos com GHL (GoHighLevel) <br/>
+🔗 Integração de sistemas via APIs e Webhooks <br/>
+🤖 Criação de agentes com IA para atendimento (WhatsApp) <br/>
+🧠 Qualificação automática de leads e jornadas inteligentes <br/>
+📡 Orquestração de automações com n8n
+</p>
+
 ### ⚙️ Ferramentas e Plataformas
 
 <div align="center">
@@ -61,12 +116,16 @@
 
 ---
 
-## 🧭 O que estou estudando agora
+## 🧭 Em evolução
 
-- ☑️ React JS com foco em front-end moderno  
-- ☑️ Consumo de APIs REST com JavaScript  
-- ☑️ Estruturação de projetos com boas práticas  
-- ☑️ Banco de dados relacionais (MySQL e SQLite)
+Atualmente aprofundando meus conhecimentos em:
+
+⚛️ Desenvolvimento front-end com React (componentização, estado e boas práticas)
+🔗 Construção e consumo de APIs REST com JavaScript (Node.js)
+⚙️ Arquitetura de sistemas e organização de projetos escaláveis
+🗄️ Modelagem de banco de dados e integração com aplicações
+🤖 Aplicações com IA voltadas para automação e atendimento inteligente
+
 
 ---
 
