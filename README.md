@@ -89,18 +89,16 @@ Quero atuar em projetos onde eu possa aplicar minhas habilidades, aprender rápi
 
 <br/>
 
-### ⚙️ Backend & APIs
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" /> </div> <p align="center"> 🚀 Desenvolvimento de APIs com Node.js<br/> 🔗 Integração com APIs externas<br/> 📡 Criação de Webhooks<br/> 🤖 Implementação de IA para atendimento automatizado (chatbot estilo recepcionista)<br/> 🟢 Servidores rodando com Express </p> <br/>
-
-### 🤖 Automação & IA
+### ⚙️ Backend, APIs & Automação
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
 </div>
 
 <p align="center">
+🚀 Desenvolvimento de APIs com Node.js (Express) <br/>
+🔗 Integração com APIs externas e Webhooks <br/>
 ⚡ Automação de fluxos com GHL (GoHighLevel) <br/>
-🔗 Integração de sistemas via APIs e Webhooks <br/>
 🤖 Criação de agentes com IA para atendimento (WhatsApp) <br/>
 🧠 Qualificação automática de leads e jornadas inteligentes <br/>
 📡 Orquestração de automações com n8n
