@@ -109,8 +109,20 @@ Quero atuar em projetos onde eu possa aplicar minhas habilidades, aprender rápi
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="NPM" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="Windows" />
 </div>
+
+<p align="center">
+🛠️ Desenvolvimento e versionamento com Git & GitHub <br/>
+📡 Testes de APIs com Postman <br/>
+📦 Gerenciamento de pacotes com NPM <br/>
+⚙️ Automação e integrações com GHL e n8n <br/>
+💻 Ambiente de desenvolvimento estruturado
+</p>
 
 ---
 
