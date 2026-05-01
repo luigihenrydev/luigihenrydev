@@ -69,16 +69,24 @@ Quero atuar em projetos onde eu possa aplicar minhas habilidades, aprender rápi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
 </div>
 
-<br/>
+<p align="center">
+🟡 JavaScript como principal linguagem (lógica, APIs e automações) <br/>
+🌐 HTML & CSS para estruturação e estilização de interfaces web
+</p>
 
 ### 🛠️ Frameworks & Bibliotecas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express" />
 </div>
 
-<br/>
+<p align="center">
+⚛️ Desenvolvimento de interfaces com React <br/>
+🎨 Criação de layouts responsivos com Bootstrap <br/>
+🚀 Construção de APIs e servidores com Express
+</p>
 
 ### 🛢️ Banco de Dados
 
@@ -87,7 +95,10 @@ Quero atuar em projetos onde eu possa aplicar minhas habilidades, aprender rápi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="SQLite" />
 </div>
 
-<br/>
+<p align="center">
+🗄️ Modelagem e manipulação de dados relacionais <br/>
+📊 Estruturação de dados para aplicações web e automações
+</p>
 
 ### ⚙️ Backend, APIs & Automação
 
