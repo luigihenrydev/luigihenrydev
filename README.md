@@ -8,52 +8,52 @@
 
 ## 💻 Sobre Mim
 
-👋 Olá! Me chamo **Luigi Henry** 👨‍💻
+Olá! Me chamo **Luigi Henry** 👨‍💻
 
 Sou desenvolvedor com foco em automação de processos, inteligência artificial e desenvolvimento web, criando soluções que conectam sistemas, otimizam operações e geram resultados reais.
 
 Tenho experiência prática com:
 
-⚡ Desenvolvimento em JavaScript (Node.js)
-⚡ Criação de aplicações e integrações web
-⚡ Automação de fluxos com GHL (GoHighLevel)
-⚡ Agentes conversacionais com IA (WhatsApp)
-⚡ Integração de APIs e ferramentas (n8n, Webhooks, CRM)
+⚡ Desenvolvimento em JavaScript (Node.js)<br/>
+⚡ Criação de aplicações e integrações web<br/>
+⚡ Automação de fluxos com GHL (GoHighLevel)<br/>
+⚡ Agentes conversacionais com IA (WhatsApp)<br/>
+⚡ Integração de APIs e ferramentas (n8n, Webhooks, CRM)<br/>
 
 🧠 O que eu faço hoje
 
 Atuo construindo soluções que:
 
-✔ Automatizam atendimentos e processos comerciais
-✔ Qualificam e gerenciam leads automaticamente
-✔ Integram múltiplos sistemas e plataformas
-✔ Utilizam IA para personalização e tomada de decisão
-✔ Desenvolvem aplicações web e lógicas backend
+✔ Automatizam atendimentos e processos comerciais<br/>
+✔ Qualificam e gerenciam leads automaticamente<br/>
+✔ Integram múltiplos sistemas e plataformas<br/>
+✔ Utilizam IA para personalização e tomada de decisão<br/>
+✔ Desenvolvem aplicações web e lógicas backend<br/>
 
 💡 Interesses e foco
 
 Tenho grande interesse na área de:
 
-• Desenvolvimento Web (Front-end & Back-end)
-• JavaScript e ecossistema Node.js
-• Sistemas escaláveis e integrações
-• Automação inteligente com IA
+• Desenvolvimento Web (Front-end & Back-end)<br/>
+• JavaScript e ecossistema Node.js<br/>
+• Sistemas escaláveis e integrações<br/>
+• Automação inteligente com IA<br/>
 
 📚 Evolução constante
 
 Estou sempre evoluindo através de:
 
-• Projetos práticos e sistemas reais
-• Estudo contínuo em desenvolvimento e IA
-• Construção de soluções completas (end-to-end)
+• Projetos práticos e sistemas reais<br/>
+• Estudo contínuo em desenvolvimento e IA<br/>
+• Construção de soluções completas (end-to-end)<br/>
 
 🎯 Objetivo
 
 Busco minha primeira oportunidade profissional na área de tecnologia, com foco em:
 
-👉 Desenvolvimento Full Stack
-👉 Automação com IA
-👉 Integração de sistemas e APIs
+👉 Desenvolvimento Full Stack<br/>
+👉 Automação com IA<br/>
+👉 Integração de sistemas e APIs<br/>
 
 Quero atuar em projetos onde eu possa aplicar minhas habilidades, aprender rápido e gerar impacto real.
 
