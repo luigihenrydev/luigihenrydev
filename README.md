@@ -1,6 +1,8 @@
 <h1 align="center">👋 Seja bem-vindo(a) ao meu GitHub!</h1> 
 
-<p align="center"><i>Developer | Tecnólogo em Análise e Desenvolvimento de Sistemas</i></p>
+<p align="center"><i>
+🚀 Automation & AI Workflow Developer | JavaScript Developer
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas</i></p>
 
 ---
 
